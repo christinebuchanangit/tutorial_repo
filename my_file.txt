@@ -1,1 +1,2 @@
 line 1: First Entry and commit
+line 2: Second entry, do we see changes
